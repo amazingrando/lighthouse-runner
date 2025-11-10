@@ -1,3 +1,5 @@
+[![](https://github.com/amazingrando/amazingrando/blob/master/assets/amazing-rando-badge.svg)](https://amazingrando.com)
+
 # Benchmarking tool
 
 The purpose of this tool is to take an array of URLs and create a series of reports to benchmark stats prior to working on a project.
